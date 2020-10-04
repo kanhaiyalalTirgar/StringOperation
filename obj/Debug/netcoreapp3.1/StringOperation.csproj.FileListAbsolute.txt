@@ -1,0 +1,13 @@
+D:\Working Project\Demo\StringOperation\bin\Debug\netcoreapp3.1\StringOperation.exe
+D:\Working Project\Demo\StringOperation\bin\Debug\netcoreapp3.1\StringOperation.deps.json
+D:\Working Project\Demo\StringOperation\bin\Debug\netcoreapp3.1\StringOperation.runtimeconfig.json
+D:\Working Project\Demo\StringOperation\bin\Debug\netcoreapp3.1\StringOperation.runtimeconfig.dev.json
+D:\Working Project\Demo\StringOperation\bin\Debug\netcoreapp3.1\StringOperation.dll
+D:\Working Project\Demo\StringOperation\bin\Debug\netcoreapp3.1\StringOperation.pdb
+D:\Working Project\Demo\StringOperation\obj\Debug\netcoreapp3.1\StringOperation.csprojAssemblyReference.cache
+D:\Working Project\Demo\StringOperation\obj\Debug\netcoreapp3.1\StringOperation.AssemblyInfoInputs.cache
+D:\Working Project\Demo\StringOperation\obj\Debug\netcoreapp3.1\StringOperation.AssemblyInfo.cs
+D:\Working Project\Demo\StringOperation\obj\Debug\netcoreapp3.1\StringOperation.csproj.CoreCompileInputs.cache
+D:\Working Project\Demo\StringOperation\obj\Debug\netcoreapp3.1\StringOperation.dll
+D:\Working Project\Demo\StringOperation\obj\Debug\netcoreapp3.1\StringOperation.pdb
+D:\Working Project\Demo\StringOperation\obj\Debug\netcoreapp3.1\StringOperation.genruntimeconfig.cache
